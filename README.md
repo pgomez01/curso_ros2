@@ -1,2 +1,5 @@
-# curso_ros2
-Aqui se aloja los paquetes realizados durante el curso de ROS2
+# Repositorio curso ROS2 UNED.
+Repositorio con los paquetes demostrativos del curso "Introducción a la robótica con ROS2"
+
+## Contenidos
+
