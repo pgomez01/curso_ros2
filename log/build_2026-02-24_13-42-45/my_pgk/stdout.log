@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/my_pgk/my_pgk.egg-info
+writing ../build/my_pgk/my_pgk.egg-info/PKG-INFO
+writing dependency_links to ../build/my_pgk/my_pgk.egg-info/dependency_links.txt
+writing entry points to ../build/my_pgk/my_pgk.egg-info/entry_points.txt
+writing requirements to ../build/my_pgk/my_pgk.egg-info/requires.txt
+writing top-level names to ../build/my_pgk/my_pgk.egg-info/top_level.txt
+writing manifest file '../build/my_pgk/my_pgk.egg-info/SOURCES.txt'
+reading manifest file '../build/my_pgk/my_pgk.egg-info/SOURCES.txt'
+writing manifest file '../build/my_pgk/my_pgk.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build
+creating /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib
+creating /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib/my_pgk
+copying my_pgk/my_node.py -> /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib/my_pgk
+copying my_pgk/__init__.py -> /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib/my_pgk
+running install
+running install_lib
+creating /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk
+copying /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib/my_pgk/my_node.py -> /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk
+copying /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib/my_pgk/__init__.py -> /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk
+byte-compiling /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk/my_node.py to my_node.cpython-312.pyc
+byte-compiling /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/share/ament_index
+creating /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/share/ament_index/resource_index
+creating /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/share/ament_index/resource_index/packages
+copying resource/my_pgk -> /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/share/ament_index/resource_index/packages
+copying package.xml -> /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/share/my_pgk
+running install_egg_info
+Copying ../build/my_pgk/my_pgk.egg-info to /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk-0.0.0-py3.12.egg-info
+running install_scripts
+Installing my_node script to /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/my_pgk
+writing list of installed files to '/home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/install.log'

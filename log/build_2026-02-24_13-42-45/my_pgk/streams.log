@@ -1,0 +1,37 @@
+[1.090s] Invoking command in '/home/pablo/curso_ros2_ws/src/curso_ros2/my_pgk': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_pgk build --build-base /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build install --record /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/install.log --single-version-externally-managed install_data
+[1.437s] running egg_info
+[1.437s] creating ../build/my_pgk/my_pgk.egg-info
+[1.463s] writing ../build/my_pgk/my_pgk.egg-info/PKG-INFO
+[1.463s] writing dependency_links to ../build/my_pgk/my_pgk.egg-info/dependency_links.txt
+[1.464s] writing entry points to ../build/my_pgk/my_pgk.egg-info/entry_points.txt
+[1.464s] writing requirements to ../build/my_pgk/my_pgk.egg-info/requires.txt
+[1.464s] writing top-level names to ../build/my_pgk/my_pgk.egg-info/top_level.txt
+[1.464s] writing manifest file '../build/my_pgk/my_pgk.egg-info/SOURCES.txt'
+[1.522s] reading manifest file '../build/my_pgk/my_pgk.egg-info/SOURCES.txt'
+[1.523s] writing manifest file '../build/my_pgk/my_pgk.egg-info/SOURCES.txt'
+[1.523s] running build
+[1.523s] running build_py
+[1.523s] creating /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build
+[1.523s] creating /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib
+[1.523s] creating /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib/my_pgk
+[1.523s] copying my_pgk/my_node.py -> /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib/my_pgk
+[1.524s] copying my_pgk/__init__.py -> /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib/my_pgk
+[1.524s] running install
+[1.531s] running install_lib
+[1.560s] creating /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk
+[1.560s] copying /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib/my_pgk/my_node.py -> /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk
+[1.560s] copying /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build/lib/my_pgk/__init__.py -> /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk
+[1.561s] byte-compiling /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk/my_node.py to my_node.cpython-312.pyc
+[1.561s] byte-compiling /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk/__init__.py to __init__.cpython-312.pyc
+[1.561s] running install_data
+[1.561s] creating /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/share/ament_index
+[1.562s] creating /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/share/ament_index/resource_index
+[1.562s] creating /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/share/ament_index/resource_index/packages
+[1.562s] copying resource/my_pgk -> /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/share/ament_index/resource_index/packages
+[1.562s] copying package.xml -> /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/share/my_pgk
+[1.562s] running install_egg_info
+[1.591s] Copying ../build/my_pgk/my_pgk.egg-info to /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages/my_pgk-0.0.0-py3.12.egg-info
+[1.592s] running install_scripts
+[1.760s] Installing my_node script to /home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/my_pgk
+[1.760s] writing list of installed files to '/home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/install.log'
+[1.788s] Invoked command in '/home/pablo/curso_ros2_ws/src/curso_ros2/my_pgk' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pablo/curso_ros2_ws/src/curso_ros2/install/my_pgk/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_pgk build --build-base /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/build install --record /home/pablo/curso_ros2_ws/src/curso_ros2/build/my_pgk/install.log --single-version-externally-managed install_data
